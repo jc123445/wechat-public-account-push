@@ -16,7 +16,7 @@ const USER_CONFIG = {
   PROVINCE: '湖北',
   CITY: '恩施',
 
-  USERS: [{"csting31920"},
+  USERS: [
     {
       // 想要发送的人的名字
       name: '老婆',
